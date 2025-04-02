@@ -1,21 +1,13 @@
-<!-- 
-  WELCOME TO YOUR FUTURISTIC README
-  Customize anything you like: colors, badges, text, etc.
-  Make sure to replace placeholders with your actual info.
--->
 
-<!-- Banner or ASCII Art -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=Hey+There!;I'm+Escuro-JohnDenielL;Welcome+to+My+Futuristic+Profile!;Coding+the+Future+One+Line+at+a+Time" />
 </h1>
 
-<!-- Profile Badges & Visitor Count -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/Escuro-JohnDenielL?label=Follow%20Me&style=social" alt="GitHub Followers" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Escuro-JohnDenielL.Escuro-JohnDenielL" alt="Visitor Count" />
 </p>
 
-<!-- Introduction -->
 ## 🚀 About Me
 Hello, digital wanderer! I'm **Escuro-JohnDenielL**, a curious mind forging new paths in **Software Engineering**. My passion lies in blending creativity and technology to craft solutions that **push boundaries** and **inspire innovation**.
 
@@ -26,7 +18,6 @@ Hello, digital wanderer! I'm **Escuro-JohnDenielL**, a curious mind forging new 
 
 ---
 
-<!-- Tech Stack Section -->
 ## 🛠 Tech & Tools
 <p>
   <!-- Java -->
@@ -45,7 +36,6 @@ Hello, digital wanderer! I'm **Escuro-JohnDenielL**, a curious mind forging new 
 
 ---
 
-<!-- GitHub Stats & Top Languages -->
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Escuro-JohnDenielL&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -56,13 +46,11 @@ Hello, digital wanderer! I'm **Escuro-JohnDenielL**, a curious mind forging new 
 
 ---
 
-<!-- Fancy Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<!-- Contact or Connect Section -->
-## 🌐 Connect With Me
+=## 🌐 Connect With Me
 If you share the same passion for pushing technological frontiers, let's connect and **build the future** together:
 
 - **GitHub**: [@Escuro-JohnDenielL](https://github.com/Escuro-JohnDenielL)
@@ -71,12 +59,10 @@ If you share the same passion for pushing technological frontiers, let's connect
 
 ---
 
-<!-- Optional: Add a cool quote or motto -->
 > “The future is not something we enter. The future is something we create.” – Leonard I. Sweet
 
 ---
 
-<!-- End with a fancy line or footer -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23ff8c00&size=24&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Happy+Coding!" />
 </p>
