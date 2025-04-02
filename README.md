@@ -6,7 +6,7 @@
 
 <!-- Banner or ASCII Art -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=40&center=true&vCenter=true&lines=Hey+There!+I'm+Escuro-JohnDenielL;Welcome+to+My+Futuristic+Profile!;Coding+the+Future+One+Line+at+a+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=Hey+There!;I'm+Escuro-JohnDenielL;Welcome+to+My+Futuristic+Profile!;Coding+the+Future+One+Line+at+a+Time" />
 </h1>
 
 <!-- Profile Badges & Visitor Count -->
@@ -19,9 +19,9 @@
 ## 🚀 About Me
 Hello, digital wanderer! I'm **Escuro-JohnDenielL**, a curious mind forging new paths in **Software Engineering**. My passion lies in blending creativity and technology to craft solutions that **push boundaries** and **inspire innovation**.
 
-- 🌱 **Currently Learning**: Diving deep into **Java**  
-- 🔭 **Exploring**: Web Development, UI/UX, and cutting-edge frameworks  
-- 🤝 **Open to Collaborate**: Always seeking epic WebDev or Software Engineering projects  
+- 🌱 **Currently Learning**: Diving deep into **Java**
+- 🔭 **Exploring**: Web Development, UI/UX, and cutting-edge frameworks
+- 🤝 **Open to Collaborate**: Always seeking epic WebDev or Software Engineering projects
 - ⚡ **Fun Fact**: When not coding, I’m probably daydreaming about building the next futuristic city in my head!
 
 ---
@@ -58,4 +58,25 @@ Hello, digital wanderer! I'm **Escuro-JohnDenielL**, a curious mind forging new 
 
 <!-- Fancy Divider -->
 <p align="center">
-  <img
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<!-- Contact or Connect Section -->
+## 🌐 Connect With Me
+If you share the same passion for pushing technological frontiers, let's connect and **build the future** together:
+
+- **GitHub**: [@Escuro-JohnDenielL](https://github.com/Escuro-JohnDenielL)
+- **LinkedIn**: :)
+- **Email**: [johndenielescuro@gmail.com](mailto:johndenielescuro@gmail.com)
+
+---
+
+<!-- Optional: Add a cool quote or motto -->
+> “The future is not something we enter. The future is something we create.” – Leonard I. Sweet
+
+---
+
+<!-- End with a fancy line or footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23ff8c00&size=24&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Happy+Coding!" />
+</p>
